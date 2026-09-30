@@ -6,7 +6,7 @@ Welcome to my academic portfolio for [CEP146]!
 - Name: [Chris Zhangtang]
 - Major: [CPA]
 - Year: [2026-2030]
-- Favorite Programming Language: [Java]
+- Favorite Programming Language: [C]
 
 ## Course Goals
 - [ ] Learn version control with Git and GitHub
